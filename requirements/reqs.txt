@@ -1,3 +1,2 @@
 mechanize
 argparse
-urllib2
