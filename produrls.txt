@@ -1,0 +1,16 @@
+http://www.mozilla.org/
+http://www.mozilla.org/community/
+http://www.mozilla.org/projects/
+http://www.mozilla.org/contribute/
+http://www.mozilla.org/about/mission.html
+http://www.mozilla.org/about/policies/privacy-policy.html
+http://www.mozilla.org/join
+http://www.mozilla.org/foundation/licensing/website-content.html
+http://www.mozilla.org/contact/
+http://www.mozilla.org/about/forums/
+http://www.mozilla.org/about/governance.html
+http://www.mozilla.org/support/
+http://www.mozilla.org/security/announce
+http://www.mozilla.org/contribute
+http://www.mozilla.org/projects/calendar/
+http://www.mozilla.org/projects/mozilla-based.html
