@@ -14,3 +14,5 @@ http://www.mozilla.org/security/announce
 http://www.mozilla.org/contribute
 http://www.mozilla.org/projects/calendar/
 http://www.mozilla.org/projects/mozilla-based.html
+http://www.mozilla.org/projects/security/certs/pending
+http://www.mozilla.org/projects/security/certs/included
