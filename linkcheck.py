@@ -38,7 +38,9 @@ if __name__ == "__main__":
         urls = openFile.readlines()
         openFile.close()
         for url in urls:
-            checkRedirects("http://" + url)
-            checkRedirects("https://" + url)
+            httpurl = "http://" + url
+            httpsurl = "https://" + url
+            checkRedirects(httpurl)
+            checkRedirects(httpsurl)
     else:
         print "Please enter a valid filename"

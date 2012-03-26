@@ -1,4 +1,4 @@
-wwww.mozilla.org/en-US/about/
+www.mozilla.org/en-US/about/
 wwww.mozilla.org/en-US/firefox/fx/
 wwww.mozilla.org/en-US/firefox/technology/
 wwww.mozilla.org/en-US/firefox/features/
@@ -14,4 +14,4 @@ wwww.mozilla.org/en-US/firefox/performance/
 wwww.mozilla.org/en-US/firefox/features/
 wwww.mozilla.org/en-US/firefox/security/
 wwww.mozilla.org/en-US/firefox/new/
-wwww.mozilla.org/en-US/mission
+wwww.mozilla.org/en-US/mission/
