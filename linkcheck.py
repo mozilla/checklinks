@@ -24,20 +24,21 @@ def checkRedirects(url):
         print response.code
     except HTTPError, e:
         print "Error Code: %s" % e
-        print "Error url %s" % url 
+        print "Error url %s" % url
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Script to check redirects")
-    parser.add_argument("--file", action = 'store',
-        dest = 'file', help = "enter filename", type=str)
+    parser.add_argument("--file", action='store',
+        dest='file', help="enter filename", type=str)
     results = parser.parse_args()
     if(type(results.file) == str):
         openFile = open(results.file, "r")
         urls = openFile.readlines()
         openFile.close()
         for url in urls:
-            checkRedirects(url)
+            checkRedirects("http://" + url)
+            checkRedirects("https://" + url)
     else:
         print "Please enter a valid filename"
