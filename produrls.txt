@@ -14,4 +14,4 @@ www.mozilla.org/en-US/firefox/performance/
 www.mozilla.org/en-US/firefox/features/
 www.mozilla.org/en-US/firefox/security/
 www.mozilla.org/en-US/firefox/new/
-www.mozilla.org/en-US/mission/
+www.mozilla.org/mission/
